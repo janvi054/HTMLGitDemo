@@ -9,5 +9,6 @@ tHIS IS HTML
 LOGIN:<INPUT></INPUT>
 USERNAME:
 PASSWORD:
+submit<input type="button">
 </BODY>
 </HTMl>
