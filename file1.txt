@@ -1,15 +1,13 @@
-HELLO!!!!! gits file.........!!!!
-<!DOCTYPE html>
-<html lang="en">
-dsfdssdfhsdfdsfjksdfsdfjkdfsdjksdjkdsj  df
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-<h1>JAnvi kawale</h1>
-</head>
-<body>
-<h1>HELLO WORLD!!!!!!!! welcome janvi kawale git lecture </h1>
-</body>
-</html>1:04 PM 12/24/2018
+tHIS IS HTML
+
+<HTML>
+<HEAD>
+<H1>HI ITS JANVI</H1>
+<HEAD>\
+
+<BODY>
+LOGIN:<INPUT></INPUT>
+USERNAME:
+PASSWORD:
+</BODY>
+</HTMl>
