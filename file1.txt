@@ -6,9 +6,9 @@ tHIS IS HTML
 <HEAD>\
 
 <BODY>
-LOGIN:<INPUT></INPUT>
-USERNAME:
-PASSWORD:
+<b>LOGIN:</b>
+USERNAME:<INPUT type="text"></INPUT>
+PASSWORD:<INPUT type="password"></INPUT>
 submit<input type="button">
 </BODY>
 </HTMl>
